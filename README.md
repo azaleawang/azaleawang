@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h2>
-  Hi there✨  Welcome to My Repo 🥞
+  Yo! Welcome to My Repo 🥞
   </h2>
   <a href="https://www.linkedin.com/in/yayinwang/">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5zdDVpcGp1Yjg4aTFpeGdndHEyY3AzY3E0ZGJkMXkxcDFxdnYwbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6xao8pSC6vk8nKDn7Y/giphy.gif" width="100px"/>
