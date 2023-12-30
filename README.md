@@ -17,7 +17,7 @@ Hi! I'm a junior software engineer with a psychology background, diving into bot
 - 👯 Open-minded and ready for a good challenge.
 
 
-🚀Let's connect and explore the tech world together! 
+🚀 Let's connect and explore the tech world together! 
  
 
 
